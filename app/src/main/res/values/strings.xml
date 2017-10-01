@@ -1,3 +1,9 @@
 <resources>
+
+    <!-- global -->
     <string name="app_name">YoutubeClient</string>
+
+    <!-- RegistrationActivity -->
+    <string name="button_account_setup">Setup Youtube Account</string>
+
 </resources>
